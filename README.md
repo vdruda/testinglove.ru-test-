@@ -1,4 +1,4 @@
-# Тестирование сйта testinglove.ru-test- (Bug reports, Check lists,Test cases)
+# Тестирование сйта testinglove.ru (Bug reports, Check lists,Test cases)
 
 Предисловие: Необходимо протестировать веб-сайт (https://testinglove.ru/test)
 
